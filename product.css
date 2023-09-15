@@ -1,0 +1,29 @@
+.btn-primari{
+    background-color: hwb(79 5% 31%);
+  
+  }
+  .btn-primari:hover{
+    background-color: #b69541;
+  }
+  .phone-see-all{
+    text-decoration: none;
+    color: #39ab1d;
+  }
+  .card{
+    border: 0;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+  }
+  .card:hover{
+    box-shadow:   rgba(100, 203, 4, 0.16) 0px 3px 6px, rgba(114, 108, 108, 0.23) 0px 3px 6px;
+  
+  }
+   /* .categori span{
+    display: block;
+    height: 5px;
+    width: 150px;
+    margin: auto;
+    background-color: #ffb700;
+    border-radius: 10px;
+  
+  
+  }   */
